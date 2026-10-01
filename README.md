@@ -5,8 +5,10 @@ The app reads **100 synthetic** chemical contracts and a daily market file. It a
 ```text
 indicative_price_per_ton = base_price + energy_amount + raw_amount
 ```
+Three example questions.
 
-That figure is indicative. It is not a profit margin and not financial advice.
+<img width="1000" height="500" alt="Bildschirmfoto 2026-10-01 um 15 03 45" src="https://github.com/user-attachments/assets/b2b29c56-02eb-4f64-947d-882290e4e6ab" />
+
 
 ## Picture of the whole system
 
