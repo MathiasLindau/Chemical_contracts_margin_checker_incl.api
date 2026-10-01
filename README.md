@@ -9,6 +9,11 @@ Three example questions.
 
 <img width="1000" height="500" alt="Bildschirmfoto 2026-10-01 um 15 03 45" src="https://github.com/user-attachments/assets/b2b29c56-02eb-4f64-947d-882290e4e6ab" />
 
+<img width="1000" height="500" alt="Bildschirmfoto 2026-10-01 um 15 05 48" src="https://github.com/user-attachments/assets/2c569bc8-10d3-4732-8b91-c939cb8f12af" />
+
+<img width="1000" height="500" alt="Bildschirmfoto 2026-10-01 um 15 06 16" src="https://github.com/user-attachments/assets/81bd6a52-620e-4650-8853-3e7d09737bd7" />
+
+
 
 ## Picture of the whole system
 
